@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="Registration/reg.css">
+    <link rel="shortcut icon" href="to do list (4).png">
+</head>
+<body>
+  <header class="header">
+    <div class="headcontent">
+        <div class="container">
+            <div class="intro">
+                <h2>Organize Your Daily Tasks</h2>
+                <button>Learn more</button>
+
+            </div>
+        </div>
+        
+    </div>
+    <nav class="navbar">
+        <div class="container">
+            <h2 class="fl-left">To-Do<span> List</span></h2>
+            <ul>
+                <li><a href="home">Home</a></li>
+                <li><a href="log in.html">Login</a></li>
+                <li class="active"><a href="register.html">Register</a></li>
+                
+            </ul>
+        </div>
+    </nav>
+</header>
+  <main>
+    <div class="registration">
+      <div class="container">
+        <fieldset>
+          <legend id="L1">
+            Registration Information</legend>
+            <form class="typing-data">
+            <input type="text" placeholder="First Name" name="first name" id="fname">
+          <input type="text" placeholder="last Name" name="last name" id="lname">
+          <br>
+          <input type="email" placeholder="email" name="email" id="email">
+          <input type="password" placeholder="password" name="password" id="password">
+          <br>
+          <input type="date" placeholder="date of birth" name="date" style="width: 194px;" id="birthdate">
+          <input type="password" placeholder="confirm password" name="confirm password" id="conpassword" >
+          <br>
+          <input type="mobile number" placeholder="mobile number" name="mobile number" style="width: 194px;" id="mobnum">
+          <input type="certificate" placeholder="certificate" name="certificate" id="certificate">
+            </form>
+          <form class="choose-data">
+            <h2 style="color: rgb(255, 0, 157);font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif">GENDER</h2>
+      
+          <input type="radio" name="gender" value="male" style="color: darkred;font-size: 48px;font-family: fantasy" id="male">male
+      <br>
+      <input type="radio" name="gender" value="female" style="color: darkred;font-size: 48px;font-family: fantasy" id="female">female
+     <br><br>
+     <label value="Choose Your City:" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 15px;">Choose Your City:</label>
+     <select name="governerates" style="font-family: cursive;font-size: 15px;" id="selectcity">
+          <option value="vide">----</option>
+          <option value="cairo">cairo</option>
+          <option value="giza">giza</option>
+          <option value="alex">alex</option>
+          <option value="asuit">asyut</option>
+          <option value="el-menia">el-menia</option>
+          <option value="el-monofia">el-monofia</option>
+          <option value="matrooh">matrooh</option>
+          <option value="sinai">suez</option>
+          <option value="cairo">el-beheira</option>
+          <option value="giza">beni suef</option>
+          <option value="alex">dakahlia</option>
+          <option value="asuit">dametta</option>
+          <option value="el-menia">el-faiyum</option>
+          <option value="el-monofia">el-monofia</option>
+          <option value="matrooh">el-gharbia</option>
+          <option value="sinai">Ismailia</option>
+          <option value="cairo">kafr el-sheikh</option>
+          <option value="giza">luxor</option>
+          <option value="alex">new valley</option>
+          <option value="asuit">north sinai</option>
+          <option value="el-menia">port said</option>
+          <option value="el-monofia">qalyubia</option>
+          <option value="matrooh">qena</option>
+          <option value="sinai">red sea</option>
+          <option value="el-monofia">sharqia</option>
+          <option value="matrooh">sohag</option>
+          <option value="sinai">south sinai</option>  
+      </select>
+        <br><br>
+        <input type="checkbox" name="checkbox" id="checkterms">Yes, I have read & agreed to the
+         <a href="#" style="font-family: monospace;font-weight: bold;font-style: oblique;0">Terms Of Use</a> & 
+         <a href="#" style="font-family: monospace;font-weight: bold;font-style: oblique;">Privacy Policy</a>
+          </form>
+          
+        <br><br>
+        <input onclick="validate()" type="submit" id="submit" value="submit" style="color: darkred;font-family: fantasy;font-size: 30px">
+        <input onclick="reset()" type="reset" id="reset" value="reset" style="color: darkred;font-family: fantasy;font-size: 30px">
+      </fieldset>
+      </div>
+    </div>
+    
+    
+  </main>
+  <footer>
+    <!-- start contacts -->
+    <div class="contacts">
+        <div class="container">
+            <div class="info fl-left">
+                <h2>Contact Us</h2>
+                <pre>
+<strong>Emails:</strong> adham20191700087@cis.asu.edu.eg
+        adham20191700084@cis.asu.edu.eg
+        ahmed20191700079@cis.asu.edu.eg
+        sameh20191700281@cis.asu.edu.eg
+        shawkat20191700317@cis.asu.edu.eg
+        saad20191700284@cis.asu.edu.eg<br><br>
+<strong>Phones:</strong> 01220938788
+        35748208 <br><br>
+<strong>Hotline:</strong> 334455          
+                </pre>
+            </div>
+            <div class="form fl-left">
+                <form>
+                    <label>Name *</label>
+                    <input type="text">
+                    <label>Email Adress *</label>
+                    <input type="text">
+                    <label>Phone *</label>
+                    <input type="text">
+                    <label>Message *</label>
+                    <textarea></textarea>
+                    <input type="submit" value="Submit" class="text-center">
+                </form>
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- end contacts -->
+
+
+
+    <!-- start footer -->
+
+    <div class="footer text-center">
+        <div class="container">
+            <span>Copyright &copy; 2020 FCIS.</span>
+            <ul>
+                <li><i class="fab fa-twitter-square fa-2x"></i></li>
+                <li><i class="fab fa-facebook-square fa-2x"></i></li>
+                <li><i class="fab fa-pinterest-square fa-2x"></i></li>
+                <li><i class="fab fa-google-plus-square fa-2x"></i></li>
+                <li><i class="fab fa-linkedin fa-2x"></i></li>
+            </ul>
+
+        </div>
+    </div>
+
+    <!-- end footer -->
+</footer>
+<script src="registerscript.js">
+
+</script>
+</body>
+</html>

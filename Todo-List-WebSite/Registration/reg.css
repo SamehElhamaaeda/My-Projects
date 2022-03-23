@@ -1,0 +1,216 @@
+body{
+    
+}
+.container{
+    width: 1170px;
+    margin: auto;
+  }
+  
+  .clearfix{
+    clear: both;
+  }
+
+  .header .headcontent {
+    background-image: url("to-do list.jpeg");
+    background-size: cover;
+    height: 600px;
+  }
+  
+  .header .headcontent .intro {
+    margin: 0;
+    padding-top: 250px;
+    height: 600px;
+    text-align: center;
+    color: #FFF;
+  }
+  
+  .header .headcontent .intro h2 {
+    
+    margin: 0 auto;
+    font-size: 50px;
+    width: 600px;
+    border-top:4px solid #FFF ;
+    border-bottom:4px solid #FFF ;
+    padding: 5px 0;
+    color: #fff;
+  }
+  
+  .header .headcontent .intro button {
+    background: none;
+    margin-top: 30px;
+    font-size: 20px;
+    border: 2px solid #FFF;
+    font-weight: bold;
+    padding: 10px 30px;
+  
+  }
+  
+  .header .navbar {
+  
+    background-color: #252F31;
+    color: #fff;
+    overflow: hidden;
+    
+  }
+  .header .navbar h2 {text-transform: uppercase; color: #fff;}
+  
+  .header .navbar h2 span {color:#2ecc71 ;}
+  
+  .header .navbar ul {
+    list-style: none;
+    padding-left: 0;
+    overflow: hidden;
+    float: right;
+  }
+  
+  .header .navbar ul li {float: left; padding: 10px;}
+  
+  .header .navbar ul li a {color: #FFF; text-decoration: none;}
+  
+  .header .navbar ul li.active a,
+  .header .navbar ul li a:hover {color:#2ecc71 ;}
+
+  .registration{
+      padding-top: 100px ;
+      padding-bottom: 70px;
+      min-height: 700px;
+      background-color: #f2f2f2;
+  }
+  .registration fieldset{
+      border: 0;
+  }
+  .registration fieldset legend{
+    color: saddlebrown;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 35px;
+    margin-bottom: 70px;
+  }
+  .registration fieldset .typing-data{
+        margin-left: 50px;
+  }
+  .registration fieldset .typing-data input{
+      margin: 0 40px 40px 0;
+      height: 35px;
+      padding: 0 20px;
+  }
+  .registration fieldset .choose-data
+  {
+      margin-left: 50px;
+  }
+  .registration fieldset .choose-data input{
+      
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  #title{
+    font-size: 50px;
+    font-family: monospace;
+    text-align: center;
+    margin-bottom: 5%;
+    
+    background-size: auto;
+    text-transform: uppercase;
+
+} 
+
+.contacts {
+    padding-top: 50px;
+    padding-bottom: 70px;
+    overflow: hidden;
+    background-color: #252f31;
+  }
+  .contacts .info {width: 50%; margin-right: 5%;}
+  
+  .contacts h2 {color: #fff; margin-left: 40px;}
+  
+  .contacts pre {color: #6a6e71; margin-left: 40px;}
+  
+  .contacts pre strong {color: #d1d6da;}
+  
+  .contacts .form {width: 45%;}
+  
+  .contacts .form label{
+    display: block;
+    color: #d1d6da;
+    margin-bottom: 10px;
+  }
+  
+  .contacts .form input[type="text"]{
+    display: block;
+    background-color:#4b5557 ;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+    width: 80%;
+    margin-bottom: 30px;
+  }
+  
+  .contacts .form textarea{
+    display: block;
+    background-color:#4b5557 ;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+    width: 80%;
+    margin-bottom: 30px;
+    height: 300px;
+  }
+  
+  .contacts .form input[type="submit"]{
+    display: block;
+    background-color:#191e22 ;
+    color: #fff;
+    padding: 10px 10px;
+    border: 0;
+    width: 20%;
+  }
+  
+  
+    /* Contact */
+  
+  
+  
+  
+    /* footer */
+  
+  .footer {
+    padding:20px 0px;
+    overflow: hidden;
+    background-color: #191E22;
+    color: #6a6e71;
+  }
+  .footer ul{
+    list-style: none;
+    text-align: center;
+    padding-left: 0;
+    margin-top: 20px;
+  }
+  .footer ul li {display: inline-block;}
+  
+  .footer ul li i:hover {color: #fff;}
+  
+    /* footer */
+  
+  
+  /* Main */
+  
+  
+  
+  /* framework */
+  .fl-left{
+    float: left;
+  }
+  .my-button{
+    background: none;
+    color: #2dcc70;
+    border: 3px solid #2dcc70;
+    padding:10px 20px ;
+    font-weight: bold;
+  }
+  p,pre{
+    color: #777;line-height: 1.6;
+  }
+  h2 , h3{
+    color: #555;
+  }
+  .text-center{
+    text-align: center;
+  }

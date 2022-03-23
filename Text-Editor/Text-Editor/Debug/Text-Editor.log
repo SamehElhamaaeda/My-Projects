@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  TextEditor.cpp
+C:\Users\Mostafa\Downloads\Text-Editor\Text-Editor\TextEditor.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mostafa\Downloads\Text-Editor\Text-Editor\TextEditor.cpp(97,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Text-Editor.vcxproj -> C:\Users\Mostafa\Downloads\Text-Editor\Debug\Text-Editor.exe
