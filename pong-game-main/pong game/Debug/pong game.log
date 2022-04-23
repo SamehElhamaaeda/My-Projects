@@ -1,0 +1,219 @@
+﻿  game.cpp
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(31,64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(32,67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(33,70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(40,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(86,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(28,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(32,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(34,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(34,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(35,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(35,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(37,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(38,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(47,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(52,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(55,41): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(57,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(57,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(61,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(73,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(73,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(78,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(114,36): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(119,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(119,156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(125,86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(125,153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(133,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(133,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(155,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(155,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(222,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(222,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(260,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(260,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(270,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.cpp(270,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  menu.cpp
+  pong game.cpp
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(31,64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(32,67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(33,70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(40,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\game.h(86,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\textbox.h(18,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\textbox.h(18,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\textbox.h(24,48): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\textbox.h(28,50): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\textbox.h(49,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\textbox.h(53,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\textbox.h(81,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(26,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(47,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(47,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(49,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(53,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(58,34): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(65,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(70,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(75,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(80,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(83,34): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(105,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(105,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(106,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(106,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(112,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(113,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(115,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(117,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(119,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(121,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(122,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(123,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(239,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(239,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(242,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(242,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(264,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mariam Fairouz\Desktop\pong game\pong game\pong game.cpp(264,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  pong game.vcxproj -> C:\Users\Mariam Fairouz\Desktop\pong game\Debug\pong game.exe

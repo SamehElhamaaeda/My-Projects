@@ -1,0 +1,29 @@
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\Algorithms\FIR.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\DataStructures\FilterTypes.cs
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\FCIS\4th year materials\2nd semester\Digital Signal Processing\Package\fcisdsp-dsp.toolbox-a2abc453c288\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojResolveAssemblyReference.cache
+E:\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\Algorithms\FIR.cs
+E:\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\DataStructures\FilterTypes.cs
+E:\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+E:\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+E:\Faculty\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\Algorithms\FIR.cs
+E:\Faculty\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\DataStructures\FilterTypes.cs
+E:\Faculty\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\Faculty\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\Faculty\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+E:\Faculty\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\Faculty\Fourth\Second\Signals\Digital_Signal_Procession_Package-master\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\bin\Debug\Algorithms\FIR.cs
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\bin\Debug\DataStructures\FilterTypes.cs
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\Mostafa\Downloads\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
